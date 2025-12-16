@@ -1,11 +1,8 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vivek+Vala;Frontend+Developer;UI%2FUX+Designer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vivek+Vala;Frontend+Developer;UI%2FUX+Designer" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=Designing+Beautiful+Interfaces;Building+Modern+Web+Apps;Open+To+Internships+🇮🇳" />
-</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrvala28-a11y&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
