@@ -1,50 +1,38 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#7F00FF,#E100FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Vivek Vala
+  </span>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Vivek Vala</h1>
-<h3 align="center">Frontend Developer & UI/UX Designer from India 🇮🇳</h3>
+<h3 align="center">
+  Frontend Developer | UI/UX Designer | Internship Seeker 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrvala28-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F3ACE&center=true&vCenter=true&width=520&lines=Frontend+Developer;UI%2FUX+Designer;React+Learner;Open+to+Internships" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrvala28-a11y&theme=onedark&margin-w=15" />
+  <img src="https://komarev.com/ghpvc/?username=mrvala28-a11y&label=Profile%20Views&color=7F3ACE&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🔭 Currently working on **UI / UX Design**
-- 🌱 Learning **Frontend Development**
+- 🌱 Learning **Frontend Development (React)**
+- 🎯 Actively looking for **Internship Opportunities**
 - 📫 Email: **mrvala28@gmail.com**
 - 📄 Experience: **Fresher**
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://github.com/mrvala28-a11y" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,github,nodejs,mongodb,mysql,php,python" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrvala28-a11y&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvala28-a11y&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvala28-a11y&layout=compact&theme=tokyonight" />
-</p>
+## 🧠 Skills Progress
+```text
+HTML        ██████████ 95%
+CSS         █████████░ 90%
+JavaScript  ████████░░ 80%
+React       ███████░░░ 70%
+UI/UX       █████████░ 90%
