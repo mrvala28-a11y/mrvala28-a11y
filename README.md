@@ -1,27 +1,57 @@
-<h1 align="center">Hi 👋, I'm vivek vala</h1>
-<h3 align="center">A passionate frontend developer from India , A passionate UI/UX Designer from India</h3>
+<!-- ===== HERO / GRADIENT HEADING ===== -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#00C6FF,#0072FF,#7F00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Vivek Vala
+  </span>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvala28-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mrvala28-a11y" /> </p>
+<h3 align="center">
+  Frontend Developer • UI/UX Designer • Internship Seeker 🇮🇳
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvala28-a11y" alt="mrvala28-a11y" /></a> </p>
-
-- 🔭 I’m currently working on **UI / UX DESIGN**
-
-- 🌱 I’m currently learning **Fronted Develop**
-
-- 📫 How to reach me **mrvala28@gmail.com**
-
-- 📄 Know about my experiences [i am Fresher](i am Fresher)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=560&lines=Frontend+Developer;UI%2FUX+Designer;React+Learner;Open+to+Internships" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrvala28-a11y&label=Profile%20Views&color=58A6FF&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvala28-a11y&show_icons=true&locale=en&layout=compact" alt="mrvala28-a11y" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrvala28-a11y&theme=onedark&margin-w=15" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvala28-a11y&show_icons=true&locale=en" alt="mrvala28-a11y" /></p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvala28-a11y&" alt="mrvala28-a11y" /></p>
+<!-- ===== ABOUT ===== -->
+## 👨‍💻 About Me
+- 🔭 Working on **UI / UX Design**
+- 🌱 Learning **Frontend Development (React)**
+- 🎯 Actively seeking **Internship Opportunities**
+- 📫 Email: **mrvala28@gmail.com**
+- 📄 Status: **Fresher**
+
+<hr/>
+
+<!-- ===== SKILLS ===== -->
+## 🧠 Skills Progress
+```text
+HTML        ██████████ 95%
+CSS         █████████░ 90%
+JavaScript  ████████░░ 80%
+React       ███████░░░ 70%
+UI/UX       █████████░ 90%
+##🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,github,nodejs,mongodb,mysql,php,python,typescript" /> </p> <hr/> <!-- ===== PROJECT CARDS ===== -->
+📌 Featured Projects
+<table> <tr> <td width="50%"> <h3 align="center">Responsive Landing Page</h3> <p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/landing.png" width="90%"/> </p> <p align="center"> HTML • CSS • Animations </p> <p align="center"> <a href="https://github.com/mrvala28-a11y"><b>View Repo</b></a> </p> </td> <td width="50%"> <h3 align="center">React Portfolio</h3> <p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/react.png" width="90%"/> </p> <p align="center"> React • Tailwind </p> <p align="center"> <a href="https://github.com/mrvala28-a11y"><b>View Repo</b></a> </p> </td> </tr> </table>
+
+<sub>ℹ️ Replace image links with screenshots from your projects.</sub>
+
+<hr/> <!-- ===== STATS ===== -->
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrvala28-a11y&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvala28-a11y&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvala28-a11y&layout=compact&theme=tokyonight" /> </p> <hr/> <!-- ===== RESUME + CONTACT ===== -->
+📄 Resume & Contact
+<p align="center"> <a href="https://drive.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" /> </a> <a href="mailto:mrvala28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/mrvala28-a11y"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> </a> </p> <p align="center"> ✨ “Design first. Code smart. Learn always.” ✨ </p>
